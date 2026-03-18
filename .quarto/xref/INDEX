@@ -4,5 +4,11 @@
   },
   "index.qmd": {
     "index.html": "5a654f2e"
+  },
+  "Git/mingw64/share/licenses/c-ares/LICENSE.md": {
+    "LICENSE.html": "ceacaac7"
+  },
+  "Git/mingw64/share/licenses/pcre2/LICENCE.md": {
+    "LICENCE.html": "d42a7be5"
   }
 }

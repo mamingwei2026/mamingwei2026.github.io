@@ -28,6 +28,13 @@
     "text": "© 2026 马明玮 | 华中农业大学资源与环境专业"
   },
   {
+    "objectID": "Git/mingw64/share/licenses/c-ares/LICENSE.html",
+    "href": "Git/mingw64/share/licenses/c-ares/LICENSE.html",
+    "title": "马明玮 - 个人主页",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 1998 Massachusetts Institute of Technology\nCopyright (c) 2007 - 2023 Daniel Stenberg with many contributors, see AUTHORS file.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice (including the next paragraph) shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "关于我",
@@ -68,5 +75,33 @@
     "title": "关于我",
     "section": "",
     "text": "© 2026 马明玮 | 华中农业大学资源与环境专业"
+  },
+  {
+    "objectID": "Git/mingw64/share/licenses/pcre2/LICENCE.html",
+    "href": "Git/mingw64/share/licenses/pcre2/LICENCE.html",
+    "title": "PCRE2 Licence",
+    "section": "",
+    "text": "SPDX-License-Identifier:\nBSD-3-Clause WITH PCRE2-exception\n\n\n\n\n\nPCRE2 is a library of functions to support regular expressions whose syntax and semantics are as close as possible to those of the Perl 5 language.\nReleases 10.00 and above of PCRE2 are distributed under the terms of the “BSD” licence, as specified below, with one exemption for certain binary redistributions. The documentation for PCRE2, supplied in the “doc” directory, is distributed under the same terms as the software itself. The data in the testdata directory is not copyrighted and is in the public domain.\nThe basic library functions are written in C and are freestanding. Also included in the distribution is a just-in-time compiler that can be used to optimize pattern matching. This is an optional feature that can be omitted when the library is built. The just-in-time compiler is separately licensed under the “2-clause BSD” licence.\n\n\n\n\nWritten by:       Philip Hazel\nEmail local part: Philip.Hazel\nEmail domain:     gmail.com\n\nRetired from University of Cambridge Computing Service,\nCambridge, England.\n\nCopyright (c) 1997-2007 University of Cambridge\nCopyright (c) 2007-2024 Philip Hazel\nAll rights reserved.\n\n\n\nWritten by:       Zoltan Herczeg\nEmail local part: hzmester\nEmail domain:     freemail.hu\n\nCopyright (c) 2010-2024 Zoltan Herczeg\nAll rights reserved.\n\n\n\nWritten by:       Zoltan Herczeg\nEmail local part: hzmester\nEmail domain:     freemail.hu\n\nCopyright (c) 2009-2024 Zoltan Herczeg\nAll rights reserved.\nThe code in the deps/sljit directory has its own LICENSE file.\n\n\n\nMany other contributors have participated in the authorship of PCRE2. As PCRE2 has never required a Contributor Licensing Agreement, or other copyright assignment agreement, all contributions have copyright retained by each original contributor or their employer.\n\n\n\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notices, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notices, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the University of Cambridge nor the names of any contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n\n\nThe second condition in the BSD licence (covering binary redistributions) does not apply all the way down a chain of software. If binary package A includes PCRE2, it must respect the condition, but if package B is software that includes package A, the condition is not imposed on package B unless it uses PCRE2 independently."
+  },
+  {
+    "objectID": "Git/mingw64/share/licenses/pcre2/LICENCE.html#copyright",
+    "href": "Git/mingw64/share/licenses/pcre2/LICENCE.html#copyright",
+    "title": "PCRE2 Licence",
+    "section": "",
+    "text": "Written by:       Philip Hazel\nEmail local part: Philip.Hazel\nEmail domain:     gmail.com\n\nRetired from University of Cambridge Computing Service,\nCambridge, England.\n\nCopyright (c) 1997-2007 University of Cambridge\nCopyright (c) 2007-2024 Philip Hazel\nAll rights reserved.\n\n\n\nWritten by:       Zoltan Herczeg\nEmail local part: hzmester\nEmail domain:     freemail.hu\n\nCopyright (c) 2010-2024 Zoltan Herczeg\nAll rights reserved.\n\n\n\nWritten by:       Zoltan Herczeg\nEmail local part: hzmester\nEmail domain:     freemail.hu\n\nCopyright (c) 2009-2024 Zoltan Herczeg\nAll rights reserved.\nThe code in the deps/sljit directory has its own LICENSE file.\n\n\n\nMany other contributors have participated in the authorship of PCRE2. As PCRE2 has never required a Contributor Licensing Agreement, or other copyright assignment agreement, all contributions have copyright retained by each original contributor or their employer."
+  },
+  {
+    "objectID": "Git/mingw64/share/licenses/pcre2/LICENCE.html#the-bsd-licence",
+    "href": "Git/mingw64/share/licenses/pcre2/LICENCE.html#the-bsd-licence",
+    "title": "PCRE2 Licence",
+    "section": "",
+    "text": "Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notices, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notices, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the University of Cambridge nor the names of any contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "Git/mingw64/share/licenses/pcre2/LICENCE.html#exemption-for-binary-library-like-packages",
+    "href": "Git/mingw64/share/licenses/pcre2/LICENCE.html#exemption-for-binary-library-like-packages",
+    "title": "PCRE2 Licence",
+    "section": "",
+    "text": "The second condition in the BSD licence (covering binary redistributions) does not apply all the way down a chain of software. If binary package A includes PCRE2, it must respect the condition, but if package B is software that includes package A, the condition is not imposed on package B unless it uses PCRE2 independently."
   }
 ]
