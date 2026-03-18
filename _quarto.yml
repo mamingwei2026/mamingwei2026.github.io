@@ -1,0 +1,25 @@
+# 网站全局配置（兼容旧版 Quarto，无 footer 报错）
+project:
+  type: website
+  output-dir: docs  # 关键：GitHub Pages 读取 docs 文件夹
+
+website:
+  title: "马明玮 - 个人主页"
+  description: "华中农业大学资源与环境专业硕士研究生"
+  favicon: images/favicon.ico  # 可选：网站小图标，无则注释掉
+  navbar:  # 顶部导航栏
+    background: primary
+    align: center
+    left:
+      - text: 首页
+        href: index.qmd
+      - text: 关于我
+        href: about.qmd
+
+# 全局样式（简洁学术风）
+format:
+  html:
+    theme: cosmo  # Quarto内置主题，简洁美观
+    toc: false  # 关闭侧边目录
+    smooth-scroll: true  # 平滑滚动
+    page-layout: full
